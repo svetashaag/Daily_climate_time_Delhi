@@ -11,7 +11,7 @@
 - Скидановой Верой
 - Шабаевой Светланой
 
-### 🤔 О датасете
+## 🤔 О датасете
 Источник: [`Daily Climate Time Series Data`](https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data) с сайта [`Kaggle`](https://www.kaggle.com/)
 Период: с 1 января 2013 года по 24 апреля 2017 года.
 Локация: Дели, Индия.
